@@ -32,7 +32,7 @@ requirements:
     - httplib2
     - cryptography
     - six
-    - openstacksdk
+    #- openstacksdk
     - boto
 
 test:
@@ -62,3 +62,4 @@ extra:
   recipe-maintainers:
     - brainstorm
     - tschoonj
+    - bkreider
